@@ -12,6 +12,6 @@ authors:
   affiliation: "Université de Lorraine, CNRS, CRAN"
 title: "Modified-Deep-BSDE"
 version: 1.0.0
-doi: ""
+doi: "10.5281/zenodo.18303818"
 date-released: 2026-01-19
 url: "https://github.com/MohamedAmineHazzami/Modified-Deep-BSDE"
