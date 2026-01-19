@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hazzami"
+  given-names: "Amine"
+  affiliation: "Université de Lorraine, CNRS, IECL and CRAN"
+- family-names: "Kazi-Tani"
+  given-names: "Nabil"
+  affiliation: "Université de Lorraine, CNRS, IECL"
+  - family-names: "Satheeskumar-Varma"
+  given-names: "Vineeth"
+  affiliation: "Université de Lorraine, CNRS, CRAN"
+title: "Modified-Deep-BSDE"
+version: 1.0.0
+doi: ""
+date-released: 2026-01-19
+url: "https://github.com/MohamedAmineHazzami/Modified-Deep-BSDE"
