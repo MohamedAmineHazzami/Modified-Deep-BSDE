@@ -8,8 +8,8 @@ authors:
   given-names: "Nabil"
   affiliation: "Université de Lorraine, CNRS, IECL"
 - family-names: "Satheeskumar-Varma"
-given-names: "Vineeth"
-affiliation: "Université de Lorraine, CNRS, CRAN"
+  given-names: "Vineeth"
+  affiliation: "Université de Lorraine, CNRS, CRAN"
 title: "Modified-Deep-BSDE"
 version: 1.0.0
 doi: ""
